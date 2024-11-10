@@ -1,9 +1,11 @@
 # body weight monitoring
 
-Project Tugas Besar UTS Mobile Programming
+# Project Tugas Besar UTS Mobile Programming
+https://github.com/user-attachments/assets/438fcee4-f3af-4056-873c-360a40cc06ee
 
 
-![Dashboard](https://github.com/user-attachments/assets/c0b92167-1ad2-4a33-800a-7bf326b299ea)
+
+![Dashboard](https://github.com/user-attachments/assets/ed267c3f-ee01-4c1a-b306-052cedfcc56b)
 Penjelasan : 
 Gambar ini menunjukkan tampilan dashboard dari sebuah aplikasi yang berfokus pada pemantauan kesehatan dan kebugaran pengguna, khususnya dalam hal pemantauan berat badan dan aktivitas tubuh. Berikut adalah beberapa penjelasan dari bagian-bagian yang terlihat di dashboard:
 
@@ -22,6 +24,8 @@ Gambar ini menunjukkan tampilan dashboard dari sebuah aplikasi yang berfokus pad
 **Kegunaan**:
 Dashboard ini berguna untuk memantau progres kesehatan dan kebugaran pengguna dari waktu ke waktu. Dengan fitur ini, pengguna dapat melacak peningkatan atau penurunan dalam beberapa aspek kesehatan, seperti massa otot, stamina, dan berat badan, serta memonitor detak jantung dan aktivitas fisik secara rutin. Aplikasi ini bermanfaat bagi mereka yang ingin menjalani gaya hidup sehat atau menjalankan program kebugaran tertentu, karena memberikan gambaran yang komprehensif dan terstruktur mengenai status kesehatan mereka.
 
+![Halaman Activity](https://github.com/user-attachments/assets/0d95edce-b9e5-4c2c-9c40-6a9fb887b50e)
+Penjelasan :
 Gambar ini adalah tampilan dari halaman "Activity" dalam sebuah aplikasi yang memantau kemajuan kebugaran pengguna. Berikut adalah penjelasan mengenai elemen-elemen yang ditampilkan di halaman ini:
 
 1. **Judul Halaman**: "Activity" dengan subjudul "Monitor progress towards your fitness" yang menunjukkan bahwa halaman ini dirancang untuk membantu pengguna melacak kemajuan mereka dalam kebugaran.
@@ -36,7 +40,7 @@ Gambar ini adalah tampilan dari halaman "Activity" dalam sebuah aplikasi yang me
 **Kegunaan**:
 Halaman ini bermanfaat untuk memberikan gambaran ringkas mengenai kemajuan aktivitas fisik dan motivasi pengguna dalam mencapai tujuan kebugaran mereka. Dengan informasi ini, pengguna bisa melihat seberapa jauh mereka telah berkembang, apa yang telah mereka capai, dan memotivasi mereka untuk meningkatkan atau mempertahankan aktivitas kebugaran mereka. Aplikasi ini mendukung pengguna dalam menjalani gaya hidup sehat dengan cara yang terstruktur dan terukur.
 
-![Halaman Body](https://github.com/user-attachments/assets/ca75885f-edce-4c24-9144-d2f4d3e53d80)
+![Halaman Body](https://github.com/user-attachments/assets/8e377926-18b2-48af-8f3a-d77506397ee2)
 Penjelasan :
 Gambar ini merupakan tampilan dari halaman "Advanced Body Weight Monitoring System" pada sebuah aplikasi yang berfokus pada pemantauan berat badan pengguna. Berikut adalah penjelasan elemen-elemen yang ada:
 
@@ -56,7 +60,7 @@ Gambar ini merupakan tampilan dari halaman "Advanced Body Weight Monitoring Syst
 **Kegunaan**:
 Halaman ini berguna bagi pengguna yang ingin memantau perkembangan berat badan mereka dari waktu ke waktu. Dengan melihat data berat badan saat ini, berat badan rata-rata, dan berat badan target, pengguna bisa lebih mudah dalam merencanakan dan mengevaluasi progres dalam mencapai tujuan berat badan mereka. Fitur prediksi juga memungkinkan pengguna untuk melihat perkiraan berat badan di masa mendatang, membantu mereka untuk tetap konsisten dalam menjalani program penurunan atau peningkatan berat badan.
 
-![Halaman Heart](https://github.com/user-attachments/assets/05ab4ac2-6121-4276-9e95-92153170131f)
+![Halaman Heart](https://github.com/user-attachments/assets/4735a49c-953b-40bf-9b36-0bce1d143cf8)
 Penjelasan : 
 Gambar ini adalah tampilan dari halaman "Heart Health Monitoring" dalam aplikasi yang berfungsi untuk memantau kesehatan jantung pengguna. Berikut adalah penjelasan dari bagian-bagian yang terdapat pada halaman ini:
 
