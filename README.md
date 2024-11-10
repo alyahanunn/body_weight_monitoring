@@ -2,7 +2,6 @@
 
 Project Tugas Besar UTS Mobile Programming
 
-https://github.com/user-attachments/assets/2241dda4-96c1-4946-a63e-8a46a545b1e6 
 
 ![Dashboard](https://github.com/user-attachments/assets/c0b92167-1ad2-4a33-800a-7bf326b299ea)
 Penjelasan : 
